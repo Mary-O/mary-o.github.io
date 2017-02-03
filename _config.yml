@@ -1,2 +1,3 @@
 name: Mary Owczarzak
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
